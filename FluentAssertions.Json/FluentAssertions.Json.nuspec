@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FluentAssertions.Json</id>
+    <version>$version$</version>
+    <authors>Boris Modylevsky</authors>
+    <owners>Boris Modylevsky</owners>
+    <licenseUrl>https://github.com/borismod/FluentAssertions.Json/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/borismod/FluentAssertions.Json</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extends FluentAssertons library with Json related assertion methods</description>
+    <copyright>Copyright © 2017</copyright>
+    <tags>Fluent API JSON Newtonsoft</tags>
+    <dependencies>
+      <dependency id="FluentAssertions" version="[4.0.0,5.0.0)" />
+      <dependency id="Newtonsoft.Json" version="[9.0.0.0,10.0.0.0)" />
+    </dependencies>
+  </metadata>
+</package>
